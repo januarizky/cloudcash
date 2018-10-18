@@ -1,2 +1,4 @@
 # cloudcashbot
-Cloudcash Bot, 
+
+
+php cloudcash.php email_fb password_fb
